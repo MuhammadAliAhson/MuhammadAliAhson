@@ -8,7 +8,7 @@ Hi there! I'm Muhammad Ali Ahson, a passionate computer science student based in
 - Web Development: HTML, CSS, Flutter, LaTeX
 - Databases: MySQL, PostgreSQL
 - Computer Vision: OpenCV
-- Machine Learning Libraries: TensorFlow, PyTorch, Keras, Scikit-Learn
+- Machine Learning Libraries: TensorFlow, PyTorch, Keras, Scikit-Learn, NumPy, Pandas, Matplot
 
 ## GitHub Statistics
 
