@@ -4,11 +4,11 @@
 Hi there! I'm Muhammad Ali Ahson, a passionate computer science student based in Islamabad, Pakistan. I have a strong interest in software development, machine learning, and web development. I love solving challenging problems and exploring new technologies to create innovative solutions.
 
 ## Tools and Languages
-- Programming Languages: C++, C, Shell, Python, Object-Oriented Programming (OOP), Git
+- Programming Languages: C++, C, Shell, Python, Git
 - Web Development: HTML, CSS, Flutter, LaTeX
 - Databases: MySQL, PostgreSQL
 - Computer Vision: OpenCV
-- Machine Learning Libraries: TensorFlow, PyTorch, Keras, Scikit-Learn, NumPy, Pandas, Matplot
+- Machine Learning Libraries: TensorFlow, PyTorch, Keras, Pymc3, Scikit-Learn, NumPy, Pandas, Matplot
 
 ## GitHub Statistics
 
@@ -23,6 +23,7 @@ Hi there! I'm Muhammad Ali Ahson, a passionate computer science student based in
 - [LinkedIn](https://www.linkedin.com/in/muhammadaliahson/)
 - [Medium](https://medium.com/@i212535)
 - [GitHub](https://github.com/MuhammadAliAhson)
+- [Email](aliahson56@gmail.com)
 
 ## Curriculum Vitae (CV)
 You can find my detailed CV [here](./cv.pdf).
