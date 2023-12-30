@@ -1,14 +1,16 @@
 # Muhammad Ali Ahson
 
 ## Introduction
-Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student based in **Islamabad, Pakistan**. I have a strong interest in software development, machine learning, and web development. I love solving challenging problems and exploring new technologies to create innovative solutions.
+I am **Muhammad Ali Ahson**, a computer science student passionate about data science and AI. Proficient in C++, C, Python, and MySQL, I specialize in TensorFlow, PyTorch, and OpenCV. My interest in AI is reflected in projects such as image segmentation and AI-driven superhero name generation. As a Research Assistant in Dementia and Computer Vision, I bring practical AI experience from internships at Lancers Pvt Ltd and DataInsight Lab. With optimized neural network code showcasing parallel computing skills, I hold certifications in database design and AI. Connect with me for innovative solutions, a strong commitment to learning, and a track record of impactful projects. Explore more on LinkedIn and GitHub. Contact me at aliahson56@gmail.com 
 
 ## Tools and Languages
-- **Programming Languages:** C++, C, Shell, Python, Git
-- **Web Development:** HTML, CSS, Flutter, LaTeX
-- **Databases:** MySQL, PostgreSQL
-- **Computer Vision:** OpenCV
-- **Machine Learning Libraries:** TensorFlow, PyTorch, Keras, Pymc3, Scikit-Learn, NumPy, Pandas, Matplotlib
+- **Programming Languages:** C++, C, Shell, Python
+- **Databases:** MySQL
+- **Libraries:**
+  - Machine Learning: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib, Pymc3
+  - Computer Vision: OpenCV
+- **Tools:** Power BI, Rapid Miner
+- **Skills:** IT Support, Problem-Solving, Leadership, Creative, Teamwork
 
 ## GitHub Statistics
 
@@ -26,7 +28,7 @@ Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student base
 &nbsp;&nbsp;&nbsp;
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:aliahson56@gmail.com)
 &nbsp;&nbsp;&nbsp;
-[![Kaggle](https://img.icons8.com/ios/48/000000/kaggle.png)](https://www.kaggle.com/your-kaggle-username)
+
 
 ## Curriculum Vitae (CV)
 You can find my detailed CV [here](https://www.overleaf.com/read/zbdggzhmdbhs#7a24cc).
