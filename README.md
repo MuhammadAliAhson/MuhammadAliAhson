@@ -3,8 +3,6 @@
 ## Introduction
 Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student based in **Islamabad, Pakistan**. I have a strong interest in software development, machine learning, and web development. I love solving challenging problems and exploring new technologies to create innovative solutions.
 
-![Profile Picture](https://github.com/MuhammadAliAhson/MuhammadAliAhson/blob/main/assets/105967134/3dc581c6-b0ba-4f08-b5c0-2b1d9c81493c.jpg)
-
 ## Tools and Languages
 - **Programming Languages:** C++, C, Shell, Python, Git
 - **Web Development:** HTML, CSS, Flutter, LaTeX
@@ -22,11 +20,13 @@ Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student base
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliAhson&theme=radical)](https://github.com/MuhammadAliAhson)
 
 ## Personal Links
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadaliahson/)
-- [![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@i212535)
-- [![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/MuhammadAliAhson)
-- [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:aliahson56@gmail.com)
-- [![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png)](https://www.kaggle.com/your-kaggle-username)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadaliahson/)
+&nbsp;&nbsp;&nbsp;
+[![Medium](https://img.icons8.com/color/48/000000/medium-logo.png)](https://medium.com/@i212535)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:aliahson56@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png)](https://www.kaggle.com/your-kaggle-username)
 
 ## Curriculum Vitae (CV)
 You can find my detailed CV [here](https://www.overleaf.com/read/zbdggzhmdbhs#7a24cc).
