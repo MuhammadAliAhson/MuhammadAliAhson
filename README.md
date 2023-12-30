@@ -3,6 +3,8 @@
 ## Introduction
 Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student based in **Islamabad, Pakistan**. I have a strong interest in software development, machine learning, and web development. I love solving challenging problems and exploring new technologies to create innovative solutions.
 
+![Profile Picture](![image](https://github.com/MuhammadAliAhson/MuhammadAliAhson/assets/105967134/bbbec1f7-757f-4520-b6d3-65064452f760)
+)
 ## Tools and Languages
 - **Programming Languages:** C++, C, Shell, Python, Git
 - **Web Development:** HTML, CSS, Flutter, LaTeX
