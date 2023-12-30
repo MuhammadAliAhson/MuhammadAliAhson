@@ -26,7 +26,7 @@ Hi there! I'm **Muhammad Ali Ahson**, a passionate computer science student base
 &nbsp;&nbsp;&nbsp;
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:aliahson56@gmail.com)
 &nbsp;&nbsp;&nbsp;
-[![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png)](https://www.kaggle.com/your-kaggle-username)
+[![Kaggle](https://img.icons8.com/ios/48/000000/kaggle.png)](https://www.kaggle.com/your-kaggle-username)
 
 ## Curriculum Vitae (CV)
 You can find my detailed CV [here](https://www.overleaf.com/read/zbdggzhmdbhs#7a24cc).
