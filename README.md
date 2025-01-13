@@ -1,4 +1,4 @@
-# [Your Name]
+# Muhammad Ali Ahson
 
 ## Introduction
 I am a **Computer Science** student passionate about **Development**, **Data Science** and **Artificial Intelligence (AI)**. Proficient in programming languages such as **Python**, **JavaScript**, **C++**, **NoSQL** and **MySQL**, I specialize in using frameworks and libraries like **TensorFlow**, **PyTorch**, and **OpenCV**. My projects include work on **image segmentation**, **AI-based applications**, and **data-driven solutions**. As an intern in **Computer Vision** and **Data Science**, I have gained hands-on experience applying AI techniques to real-world challenges. I am committed to learning and implementing cutting-edge technologies to solve complex problems.
