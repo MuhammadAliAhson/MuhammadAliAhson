@@ -15,15 +15,6 @@ With strong skills in problem-solving, teamwork, and leadership, I am eager to c
 - **Tools:** Power BI, RapidMiner
 - **Skills:** IT Support, Problem-Solving, Leadership, Creativity, Teamwork, Data Analysis
 
-## GitHub Statistics
-
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/YourGitHubUsername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
-
-## GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)](https://github.com/MuhammadAliAhson)
-
 ## Personal Links
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammadaliahson/)
 &nbsp;&nbsp;&nbsp;
