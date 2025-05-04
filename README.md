@@ -8,10 +8,8 @@
 
 ## About
 
-AI Engineer with 3+ years of experience building scalable, intelligent solutions across NLP, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
-
+AI Engineer with 3+ years of experience building scalable, intelligent solutions across NLP, RAG, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
 ---
-
 ## Tech Stack
 
 <!-- Languages -->
@@ -47,7 +45,5 @@ AI Engineer with 3+ years of experience building scalable, intelligent solutions
 - **[CNIC Extractor](https://huggingface.co/spaces/maliahson/CNIC_Detector)** – YOLOv8 OCR pipeline for ID extraction  
 - **[Medical Chatbot](https://huggingface.co/maliahson/deepseek-finetune-medical)** – QA chatbot with DeepSeek LLaMA  
 - **[License Plate Detector](https://huggingface.co/spaces/maliahson/YOLO_Lisencse_Plate_Detector)** – High-precision ANPR using YOLOv8
-## Contact
 
-Let’s collaborate on impactful AI or data-driven systems.  
-📬 [aliahson56@gmail.com](mailto:aliahson56@gmail.com)
+# Let’s collaborate on impactful AI or data-driven systems.
