@@ -8,7 +8,7 @@
 
 ## About
 
-AI Engineer with 3+ years of experience building scalable, intelligent solutions across NLP, RAG, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
+AI Engineer with experience building scalable, intelligent solutions across NLP, RAG, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
 
 ---
 
