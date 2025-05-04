@@ -23,7 +23,6 @@ AI Engineer with 3+ years of experience building scalable, intelligent solutions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" alt="Hugging Face" />
 
 <!-- Web Development -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />&nbsp;
@@ -46,7 +45,6 @@ AI Engineer with 3+ years of experience building scalable, intelligent solutions
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="40" alt="LangChain" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="40" alt="LangGraph" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40" alt="Zapier" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mondaydotcom.svg" width="40" alt="Monday.com" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40" alt="Make.com" />
 
 ---
@@ -60,7 +58,4 @@ AI Engineer with 3+ years of experience building scalable, intelligent solutions
 
 ---
 
-## Let's Collaborate
-
 Open to collaborations in AI, Web Development, or Data Science.  
-📬 [aliahson56@gmail.com](mailto:aliahson56@gmail.com)
