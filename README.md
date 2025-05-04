@@ -59,4 +59,8 @@ AI Engineer with 3+ years of experience building scalable, intelligent solutions
 - **[License Plate Detector](https://huggingface.co/spaces/maliahson/YOLO_Lisencse_Plate_Detector)** – High-precision ANPR using YOLOv8
 
 ---
+
+## Let's Collaborate
+
 Open to collaborations in AI, Web Development, or Data Science.  
+📬 [aliahson56@gmail.com](mailto:aliahson56@gmail.com)
