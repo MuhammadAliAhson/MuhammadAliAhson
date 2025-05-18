@@ -3,8 +3,23 @@
 # Muhammad Ali Ahson
 
 **AI Engineer & Software Developer**  
-📍 Islamabad, Pakistan • 📧 [aliahson56@gmail.com](mailto:aliahson56@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadaliahson) • [GitHub](https://github.com/MuhammadAliAhson) • [Medium](https://aliahson.medium.com) • [Kaggle](https://www.kaggle.com/muhammadaliahson)
+
+📍 Islamabad, Pakistan
+<img src="https://img.icons8.com/color/24/000000/gmail--v1.png" width="18"/> aliahson56@gmail.com
+
+🌐 Connect with me:
+<a href="https://www.linkedin.com/in/muhammadaliahson">
+<img src="https://img.icons8.com/color/24/000000/linkedin.png" width="18"/> LinkedIn
+</a>   
+<a href="https://github.com/MuhammadAliAhson">
+<img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="18"/> GitHub
+</a>   
+<a href="https://aliahson.medium.com">
+<img src="https://img.icons8.com/ios-filled/24/000000/medium-monogram.png" width="18"/> Medium
+</a>   
+<a href="https://www.kaggle.com/muhammadaliahson">
+<img src="https://img.icons8.com/color/24/000000/kaggle.png" width="18"/> Kaggle
+</a>
 
 ---
 
