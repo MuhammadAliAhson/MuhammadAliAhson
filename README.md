@@ -87,7 +87,9 @@ Open to collaborations in AI, Web Development, or Data Science.
 <br>
 
 <div align="center">
-  ![33070647](https://github.com/user-attachments/assets/5a401bb2-d951-407a-baa5-1ed7d3407f09)
+
+![33070647](https://github.com/user-attachments/assets/477d664b-d152-4b91-bae8-cc2398b8d527)
+
 
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __me__ as your_developer">
 </div>
