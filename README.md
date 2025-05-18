@@ -21,82 +21,40 @@
 AI Engineer with experience building scalable, intelligent solutions across NLP, RAG, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
 
 ---
-## 🧰 Tech Stack
-
-<details>
-<summary>Click to expand</summary>
-
-### 🧑‍💻 Languages
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-
-### 🤖 AI / ML
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) ![OpenCV](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)
-
-### 🌐 Web Development
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
-
-### 🗄️ Databases
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-
-### 🛠 Tools
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-
-### 🧠 LLM Ecosystem
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="20"/> CrewAI •
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="20"/> LangChain •
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="20"/> LangGraph •
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="20"/> Zapier •
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="20"/> Make
-
-</details>
-
-
 ## Tech Stack
 
 ### Languages  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
-</tr></table>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
 ### AI / ML  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br>OpenCV</td>
-</tr></table>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
 
 ### Web Development  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br>Django</td>
-</tr></table>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
 
 ### Databases  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-</tr></table>
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 ### Tools  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-</tr></table>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
 ### LLM Ecosystem  
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="40"/><br>CrewAI</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="40"/><br>LangChain</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="40"/><br>LangGraph</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40"/><br>Zapier</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40"/><br>Make</td>
-</tr></table>
+![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF4D00?style=flat-square&logo=langgraph&logoColor=white)  
+![Zapier](https://img.shields.io/badge/-Zapier-FD6925?style=flat-square&logo=zapier&logoColor=white)  
+![Make](https://img.shields.io/badge/-Make-FF4F00?style=flat-square&logo=make&logoColor=white)  
 
 ## Projects
 
@@ -114,8 +72,7 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 <br>
 
 <div align="center">
-![20250518_1342_Python_Fake_Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp_optimized](https://github.com/user-attachments/assets/e9f3a665-86fe-4c7a-9dc0-9cb001b8905c)
-
+![20250518_1342_Python_Fake_Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp_optimized](https://github.com/user-attachments/assets/88321a20-b4fc-436f-8e8c-88f24ec2f048)
 </div>
 
 
