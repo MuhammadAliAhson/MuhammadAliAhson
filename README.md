@@ -21,6 +21,35 @@
 AI Engineer with experience building scalable, intelligent solutions across NLP, RAG, computer vision, and web platforms. Proven impact in agriculture, health, and analytics.
 
 ---
+## 🧰 Tech Stack
+
+<details>
+<summary>Click to expand</summary>
+
+### 🧑‍💻 Languages
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+
+### 🤖 AI / ML
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) ![OpenCV](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)
+
+### 🌐 Web Development
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
+
+### 🗄️ Databases
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+### 🛠 Tools
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+
+### 🧠 LLM Ecosystem
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="20"/> CrewAI •
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="20"/> LangChain •
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="20"/> LangGraph •
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="20"/> Zapier •
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="20"/> Make
+
+</details>
+
 
 ## Tech Stack
 
@@ -68,7 +97,6 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
   <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40"/><br>Zapier</td>
   <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40"/><br>Make</td>
 </tr></table>
----
 
 ## Projects
 
@@ -86,8 +114,7 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 <br>
 
 <div align="center">
-
-![20250518_1342_Python Fake Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp](https://github.com/user-attachments/assets/62a511d8-a3cd-40c8-a1c0-794458814bfa)
+![20250518_1342_Python_Fake_Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp_optimized](https://github.com/user-attachments/assets/e9f3a665-86fe-4c7a-9dc0-9cb001b8905c)
 
 </div>
 
