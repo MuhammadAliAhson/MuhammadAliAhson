@@ -79,18 +79,17 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 
 ---
 
-Open to collaborations in AI, Web Development, or Data Science.  
 
 <h3 align="center">MY FRIEND</h3>
-<p align="center">has a message for you...</p>
+<h5 align="center">has a message for you...</h5>
 
 <br>
 
 <div align="center">
 
-![33070647](https://github.com/user-attachments/assets/477d664b-d152-4b91-bae8-cc2398b8d527)
+![20250518_1342_Python Fake Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp](https://github.com/user-attachments/assets/62a511d8-a3cd-40c8-a1c0-794458814bfa)
 
-
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __me__ as your_developer">
 </div>
 
+
+<h1 align="center">Open to collaborations in AI, Web Development, or Data Science.</h1> 
