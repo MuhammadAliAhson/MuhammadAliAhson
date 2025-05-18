@@ -1,8 +1,10 @@
+
+![ChatGPT Image May 18, 2025, 01_18_01 PM](https://github.com/user-attachments/assets/2ad36855-70ac-4072-98e9-83c0ac0b2c4c)
 # Muhammad Ali Ahson
 
-**AI Engineer | Data Scientist | Full-Stack Developer**  
+**AI Engineer & Software Developer**  
 📍 Islamabad, Pakistan • 📧 [aliahson56@gmail.com](mailto:aliahson56@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadaliahson/) • [GitHub](https://github.com/MuhammadAliAhson) • [Medium](https://aliahson.medium.com/) • [Kaggle](https://www.kaggle.com/muhammadaliahson)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammadaliahson) • [GitHub](https://github.com/MuhammadAliAhson) • [Medium](https://aliahson.medium.com) • [Kaggle](https://www.kaggle.com/muhammadaliahson)
 
 ---
 
