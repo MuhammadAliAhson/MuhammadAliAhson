@@ -57,9 +57,7 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 
 <br>
 
-<div align="center">![20250518_1342_Python Fake Tip_remix_01jvh8vs5xftmbn2xn9xyf2cdp](https://github.com/user-attachments/assets/561c0f65-da5d-40bf-b92b-cff6c59dd50e)
+![2oip](https://github.com/user-attachments/assets/17084eba-b45f-4603-a687-c33f6ceb67a0)
 
-
-</div>
 
 <h1 align="center">Open to collaborations in AI, Web Development, or Data Science.</h1> 
