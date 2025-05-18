@@ -55,8 +55,7 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 <h5 align="center">has a message for you...</h5>
 
 <br>
-<div align="center">
 ![2oip](https://github.com/user-attachments/assets/17084eba-b45f-4603-a687-c33f6ceb67a0)
-</div>
+
 
 <h1 align="center">Open to collaborations in AI, Web Development, or Data Science.</h1> 
