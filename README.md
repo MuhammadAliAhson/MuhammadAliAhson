@@ -4,21 +4,14 @@
 
 **AI Engineer & Software Developer**  
 
-📍 Islamabad, Pakistan
 <img src="https://img.icons8.com/color/24/000000/gmail--v1.png" width="18"/> aliahson56@gmail.com
 
 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/muhammadaliahson">
 <img src="https://img.icons8.com/color/24/000000/linkedin.png" width="18"/> LinkedIn
 </a>   
-<a href="https://github.com/MuhammadAliAhson">
-<img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="18"/> GitHub
-</a>   
 <a href="https://aliahson.medium.com">
 <img src="https://img.icons8.com/ios-filled/24/000000/medium-monogram.png" width="18"/> Medium
-</a>   
-<a href="https://www.kaggle.com/muhammadaliahson">
-<img src="https://img.icons8.com/color/24/000000/kaggle.png" width="18"/> Kaggle
 </a>
 
 ---
@@ -30,6 +23,54 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 ---
 
 ## Tech Stack
+
+## 🧠 Tech Stack
+
+### Languages  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+</tr></table>
+
+### AI / ML  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br>OpenCV</td>
+</tr></table>
+
+### Web Development  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br>Django</td>
+</tr></table>
+
+### Databases  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+</tr></table>
+
+### Tools  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+</tr></table>
+
+### LLM Ecosystem  
+<table><tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="40"/><br>CrewAI</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="40"/><br>LangChain</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="40"/><br>LangGraph</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40"/><br>Zapier</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40"/><br>Make</td>
+</tr></table>
+
 
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;
