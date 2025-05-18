@@ -24,8 +24,6 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 
 ## Tech Stack
 
-## 🧠 Tech Stack
-
 ### Languages  
 <table><tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
@@ -70,41 +68,6 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
   <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40"/><br>Zapier</td>
   <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40"/><br>Make</td>
 </tr></table>
-
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-
-<!-- AI / ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />&nbsp;
-
-<!-- Web Development -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-
-<!-- Additional Tools -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/crewai.svg" width="40" alt="CrewAI" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="40" alt="LangChain" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="40" alt="LangGraph" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zapier.svg" width="40" alt="Zapier" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/make.svg" width="40" alt="Make.com" />
-
 ---
 
 ## Projects
@@ -124,6 +87,8 @@ Open to collaborations in AI, Web Development, or Data Science.
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+  ![33070647](https://github.com/user-attachments/assets/5a401bb2-d951-407a-baa5-1ed7d3407f09)
+
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __me__ as your_developer">
 </div>
 
