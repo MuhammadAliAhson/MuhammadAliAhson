@@ -43,7 +43,7 @@ AI Engineer with experience building scalable, intelligent solutions across NLP,
 
 ## Projects
 
-- **[Kisan Rabta](https://huggingface.co/spaces/maliahson/Kisan_Rabta)** – Rural agri-analytics with Whisper, NER, and D3.js  
+- **[Kisan Rabta](https://huggingface.co/spaces/maliahson/testing)** – Rural agri-analytics with Whisper, NER, and D3.js  
 - **[CNIC Extractor](https://huggingface.co/spaces/maliahson/CNIC_Detector)** – YOLOv8 OCR pipeline for ID extraction  
 - **[Medical Chatbot](https://huggingface.co/maliahson/deepseek-finetune-medical)** – QA chatbot with DeepSeek LLaMA  
 - **[License Plate Detector](https://huggingface.co/spaces/maliahson/YOLO_Lisencse_Plate_Detector)** – High-precision ANPR using YOLOv8
